@@ -1,16 +1,13 @@
-## Hi there 👋
+### Anders Forsberg
 
-<!--
-**Surferdude-AF/Surferdude-AF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product & infrastructure PM (15+ yrs) — Tacton, Calabrio/Teleopti. I lead teams, own platforms,
+and build software. These days I work AI-native: agentic coding tools in the loop by default.
 
-Here are some ideas to get you started:
+**Currently building:** [WFM-Product](https://github.com/Surferdude-AF/WFM-Product) — a
+test-driven workforce-management forecasting engine (C#/.NET · React/TS · Postgres · CI-gated).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Infra background: AWS, Kubernetes, SQL, CI/CD, observability
+- 📊 20 years in contact-center / WFM software
+- 🤖 Build with agentic AI tools daily
+
+📫 anders.forsberg@tacton.com · [LinkedIn](https://www.linkedin.com/in/...)
